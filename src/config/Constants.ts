@@ -1,0 +1,1 @@
+export const cities = ["Karachi", "Lahore", "Faislabad", "Rawalpindi", "Multan", "Hyderabad"];
